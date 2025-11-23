@@ -3,7 +3,7 @@
 An AI-powered conversational agent that helps users research companies through natural conversation and automatically generates structured, editable Account Plans.
 Designed to showcase conversational intelligence, agentic behaviour, multi-source research synthesis, and adaptive UX across different user personas.
 
-<div align="center"> <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" /> </div>
+
 🚀 Overview
 
 This project is built as a part of the Conversational AI Assignment, fulfilling the problem statement:
