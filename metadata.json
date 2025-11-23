@@ -1,0 +1,7 @@
+{
+  "name": "Company Research Assistant AI",
+  "description": "An intelligent research assistant that helps synthesize company data and generate structured account plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
