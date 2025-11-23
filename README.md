@@ -4,7 +4,7 @@ An AI-powered conversational agent that helps users research companies through n
 Designed to showcase conversational intelligence, agentic behaviour, multi-source research synthesis, and adaptive UX across different user personas.
 
 
-🚀 Overview
+Overview
 
 This project is built as a part of the Conversational AI Assignment, fulfilling the problem statement:
 
@@ -12,22 +12,22 @@ This project is built as a part of the Conversational AI Assignment, fulfilling 
 
 The agent can:
 
-🔎 Gather information about companies from multiple sources
+ Gather information about companies from multiple sources
 
-🧠 Synthesize findings into a clean, structured account plan
+ Synthesize findings into a clean, structured account plan
 
-⚖️ Provide updates when it encounters conflicting data
+ Provide updates when it encounters conflicting data
 
-✏️ Allow the user to update or regenerate only selected sections
+ Allow the user to update or regenerate only selected sections
 
-💬🎙 Support chat and voice interaction modes
+ Support chat and voice interaction modes
 
-🌗 Include Dark/Light theme toggle for enhanced UX
+ Include Dark/Light theme toggle for enhanced UX
 
-🧑‍💼 Adapt to different user personas (Confused, Efficient, Chatty, Edge Case)
+ Adapt to different user personas (Confused, Efficient, Chatty, Edge Case)
 
-✨ Key Features
-🔍 Multi-Source Company Research
+ Key Features
+ Multi-Source Company Research
 
 Pulls data about a company (overview, history, tech stack, culture, challenges, risks).
 
@@ -35,7 +35,7 @@ Synthesizes cross-source information into clean insights.
 
 Works even with partial or ambiguous user input.
 
-⚠️ Conflict Detection & Human-in-the-Loop Updates
+ Conflict Detection & Human-in-the-Loop Updates
 
 The bot notifies the user when sources disagree:
 
@@ -43,7 +43,7 @@ The bot notifies the user when sources disagree:
 
 This demonstrates agentic reasoning and transparency.
 
-🧩 Structured Account Plan Generator
+ Structured Account Plan Generator
 
 Automatically generates sections such as:
 
@@ -65,13 +65,13 @@ Risks
 
 Next Steps
 
-✏️ Section-Level Editing
+ Section-Level Editing
 
 Users may update ANY section individually:
 
 “Update only the Risks section to include budget freeze and increased competition.”
 
-💬 Chat Mode + 🎙 Voice Mode
+ Chat Mode + Voice Mode
 
 ChatGPT-style chat interface
 
@@ -79,11 +79,11 @@ Optional voice integration (STT/TTS)
 
 Natural conversational flow
 
-🌗 Theme Switcher (Dark ↔ Light)
+Theme Switcher (Dark ↔ Light)
 
 Small UI button allows switching between themes with smooth transitions.
 
-🧠 Adaptive Behaviour
+Adaptive Behaviour
 
 Bot handles:
 
